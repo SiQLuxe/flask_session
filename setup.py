@@ -13,6 +13,7 @@ setup(
     name='Flask-Session',
     version='0.3.0',
     url='https://github.com/SiQLuxe/flask_session',
+    download_url='https://github.com/SiQLuxe/flask_session/tree/0.3.0',
     license='BSD',
     author='Lucas',
     author_email='csq@qstrategy.cn',
