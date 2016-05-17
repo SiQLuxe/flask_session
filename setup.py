@@ -10,7 +10,7 @@ from setuptools import setup
 
 
 setup(
-    name='Flask_Session',
+    name='Flaskext-Session',
     version='0.3.0',
     url='https://github.com/SiQLuxe/flask_session',
     download_url='https://github.com/SiQLuxe/flask_session/tree/0.3.0',
