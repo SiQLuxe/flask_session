@@ -6,4 +6,3 @@ git push origin :0.3.0
 git tag 0.3.0 -m "put on PyPI"
 git push --tags origin master
 
-echo http://akagi201.org/blog/how-to-submit-package-to-pypi/
